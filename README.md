@@ -58,16 +58,24 @@ Lot 3: We reject the null hypothesis with a p-value of 0.04, which is less than 
 
 
 # Deliverable 4:Design a Study Comparing the MechaCar to the Competition
+
 ## Study Design: MechaCar vs. Competition
+
 metric or metrics to test:
+
 customers are interested in fuel efficiency when purchasing, so will do a statistical test on mpg
 
 Null hypothesis or alternative hypothesis:
+
 Null hypothesis: vehicle fuel efficiency is the same as the competitors.
+
 Alternative hypothesis: vehicle fuel efficiency is not the same as the competitors.
 
 statistical test  to test the hypothesis and why?:
+
 I will use a one-sample t-test to show if there is a statistical difference between the mean of the sample distribution and the mean of the population distribution.
+
 Data  needed to run the statistical test:
+
 sample dataset(mechacar) and the potential population dataset( population of all types of competitor vehicles).
 
