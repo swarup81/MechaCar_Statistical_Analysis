@@ -73,8 +73,8 @@ Alternative hypothesis: mechacar vehicles are not priced based on their performa
 
 statistical test  to test the hypothesis and why?:
 
-I will use multiple linear regression to look at each independent variable to determine if there is a significant relationship with the dependent variable.
+I will use one sample t-test to show if there is a statistical difference between the mean of the sample distribution and the mean of the population distribution.
 
 Data  needed to run the statistical test:
 
-we need the current price as the dependent variable with mpg, AWD, vehicle length, vehicle weight, and horsepower as the independent variable.
+we need sample data that was selected randomly from the population data. And the population data(Data of all types of competitor vehicles).
