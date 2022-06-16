@@ -26,7 +26,7 @@ Based on the total summary, the variance of the suspension coil is 62.29 PSI, wh
 
 
 Based on the lot summary data, 
-lot1 and lot2 meet design specifications. After all, the variance of the suspension coil does not exceed 100 pounds per square inch, whereas lot3 does not meet design specifications because the variance is greater than 100 pounds per square inch.
+lot1 and lot2 meet design specifications. After all, the variance of the suspension coil does not exceed 100 pounds per square inch, whereas lot3 does not meet design specifications because the variance is greater than 100 pounds per square inch
 
 
 ### lot summary
