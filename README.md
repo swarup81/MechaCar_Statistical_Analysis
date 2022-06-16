@@ -20,11 +20,13 @@ The linear model predicts the mpg of mechacar prototypes effectively; as we can 
 
 Based on the total summary, the variance of the suspension coil is 62.29 PSI, which does not exceed 100 pounds per square inch, so it meets the design specification.
 ###Total summary
+
 <img width="417" alt="Screen Shot 2022-06-16 at 3 42 17 PM" src="https://user-images.githubusercontent.com/100738688/174151723-b156d2c1-59dd-4008-a959-8118567571ad.png">
 
 
 Based on the lot summary data, lot1 and lot2 meet design specifications. After all, the variance of the suspension coil does not exceed 100 pounds per square inch, whereas lot3 does not meet design specifications because the variance is greater than 100 pounds per square inch.
 ###lot summary
+
 <img width="504" alt="Screen Shot 2022-06-16 at 3 44 21 PM" src="https://user-images.githubusercontent.com/100738688/174151970-7c5af1ab-7ab3-41b2-9e72-d5e8bd1eba36.png">
 
 
