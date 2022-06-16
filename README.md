@@ -63,19 +63,18 @@ Lot 3: We reject the null hypothesis with a p-value of 0.04, which is less than 
 
 metric or metrics to test:
 
-customers are interested in fuel efficiency when purchasing, so will do a statistical test on mpg
+customers are interested in price when purchasing, so will do a statistical test on price.
 
 Null hypothesis or alternative hypothesis:
 
-Null hypothesis: vehicle fuel efficiency is the same as the competitors.
+Null hypothesis: mechacar vehicles are priced based on their performance.
 
-Alternative hypothesis: vehicle fuel efficiency is not the same as the competitors.
+Alternative hypothesis: mechacar vehicles are not priced based on their performance.
 
 statistical test  to test the hypothesis and why?:
 
-I will use a one-sample t-test to show if there is a statistical difference between the mean of the sample distribution and the mean of the population distribution.
+I will use multiple linear regression to look at each independent variable to determine if there is a significant relationship with the dependent variable.
 
 Data  needed to run the statistical test:
 
-sample dataset(mechacar) and the potential population dataset( population of all types of competitor vehicles).
-
+we need the current price as the dependent variable with mpg, AWD, vehicle length, vehicle weight, and horsepower as the independent variable.
