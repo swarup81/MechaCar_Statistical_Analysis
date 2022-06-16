@@ -1,8 +1,8 @@
 # MechaCar_Statistical_Analysis
 
-Deliverable 1:Linear Regression to Predict MPG
+## Deliverable 1:Linear Regression to Predict MPG
 
-## Linear Regression to Predict MPG
+### Linear Regression to Predict MPG
 
 <img width="746" alt="Screen Shot 2022-06-16 at 3 38 16 PM" src="https://user-images.githubusercontent.com/100738688/174151151-e99177be-a45c-439f-9e96-0a7f941bf094.png">
 
@@ -14,7 +14,7 @@ The slope of the linear model is not considered to be zero because the p-value i
 
 The linear model predicts the mpg of mechacar prototypes effectively; as we can see, according to the summary output, the linear model has an r-squared value of 0.7149; this model will do approximately 71% of all the mpg predictions.
 
-Deliverable 2:Create Visualizations for the Trip Analysis 
+# Deliverable 2:Create Visualizations for the Trip Analysis 
 
 ## Summary Statistics on Suspension Coils
 
