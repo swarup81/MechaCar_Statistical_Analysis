@@ -28,9 +28,6 @@ Based on the total summary, the variance of the suspension coil is 62.29 PSI, wh
 Based on the lot summary data, 
 lot1 and lot2 meet design specifications. After all, the variance of the suspension coil does not exceed 100 pounds per square inch, whereas lot3 does not meet design specifications because the variance is greater than 100 pounds per square inch.
 
-<img width="463" alt="Screen Shot 2022-06-16 at 3 55 53 PM" src="https://user-images.githubusercontent.com/100738688/174153623-cf6c223e-5477-4bbf-8833-bf696e34c467.png">
-
-
 
 ### lot summary
 
@@ -42,14 +39,19 @@ lot1 and lot2 meet design specifications. After all, the variance of the suspens
 
 <img width="521" alt="Screen Shot 2022-06-16 at 3 49 11 PM" src="https://user-images.githubusercontent.com/100738688/174152663-0994dde7-2a57-4d4b-92b2-78e52b4aa7b6.png">
 
-<img width="778" alt="Screen Shot 2022-06-16 at 3 56 48 PM" src="https://user-images.githubusercontent.com/100738688/174153769-3ee8dd01-bf49-4b1e-8261-fe93b72913a7.png">
 
 
 According to the test analysis p value for all lots is 0.06, which is higher than the significance level0.05, so we failed to reject the null hypothesis.
 individual lots:
 
 Lot 1: We fail to reject the null hypothesis with a p-value of 1, which is higher than the significance level.
+
+<img width="463" alt="Screen Shot 2022-06-16 at 3 55 53 PM" src="https://user-images.githubusercontent.com/100738688/174153623-cf6c223e-5477-4bbf-8833-bf696e34c467.png">
+
 Lot 2: with a p-value of 0.61, which is higher than the significance level, we fail to reject the null hypothesis.
+
+<img width="778" alt="Screen Shot 2022-06-16 at 3 56 48 PM" src="https://user-images.githubusercontent.com/100738688/174153769-3ee8dd01-bf49-4b1e-8261-fe93b72913a7.png">
+
 Lot 3: We reject the null hypothesis with a p-value of 0.04, which is less than the significance level of 0.05.
 
 # Deliverable 4:Design a Study Comparing the MechaCar to the Competition
