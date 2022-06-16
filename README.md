@@ -25,7 +25,20 @@ Based on the total summary, the variance of the suspension coil is 62.29 PSI, wh
 <img width="417" alt="Screen Shot 2022-06-16 at 3 42 17 PM" src="https://user-images.githubusercontent.com/100738688/174151723-b156d2c1-59dd-4008-a959-8118567571ad.png">
 
 
-Based on the lot summary data, lot1 and lot2 meet design specifications. After all, the variance of the suspension coil does not exceed 100 pounds per square inch, whereas lot3 does not meet design specifications because the variance is greater than 100 pounds per square inch.
+Based on the lot summary data, 
+lot1 and lot2 meet design specifications. After all, the variance of the suspension coil does not exceed 100 pounds per square inch, whereas lot3 does not meet design specifications because the variance is greater than 100 pounds per square inch.
+
+One Sample t-test
+
+data:  lot1$PSI
+t = 0, df = 49, p-value = 1
+alternative hypothesis: true mean is not equal to 1500
+95 percent confidence interval:
+ 1499.719 1500.281
+sample estimates:
+mean of x 
+     1500 
+
 
 ### lot summary
 
