@@ -4,7 +4,7 @@ Deliverable 1:Linear Regression to Predict MPG
 
 ## Linear Regression to Predict MPG
 
-<img width="751" alt="Screen Shot 2022-06-16 at 3 33 13 PM" src="https://user-images.githubusercontent.com/100738688/174150630-ab6e70be-c59d-4210-b567-5e6140d43534.png">
+<img width="746" alt="Screen Shot 2022-06-16 at 3 38 16 PM" src="https://user-images.githubusercontent.com/100738688/174151151-e99177be-a45c-439f-9e96-0a7f941bf094.png">
 
 
 
