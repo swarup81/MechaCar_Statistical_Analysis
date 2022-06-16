@@ -37,12 +37,12 @@ lot1 and lot2 meet design specifications. After all, the variance of the suspens
 # Deliverable 3:T-Tests on Suspension Coils 
 ## T-Tests on Suspension Coils
 
-<img width="521" alt="Screen Shot 2022-06-16 at 3 49 11 PM" src="https://user-images.githubusercontent.com/100738688/174152663-0994dde7-2a57-4d4b-92b2-78e52b4aa7b6.png">
-
-
 
 According to the test analysis p value for all lots is 0.06, which is higher than the significance level0.05, so we failed to reject the null hypothesis.
 individual lots:
+
+<img width="521" alt="Screen Shot 2022-06-16 at 3 49 11 PM" src="https://user-images.githubusercontent.com/100738688/174152663-0994dde7-2a57-4d4b-92b2-78e52b4aa7b6.png">
+
 
 Lot 1: We fail to reject the null hypothesis with a p-value of 1, which is higher than the significance level.
 
